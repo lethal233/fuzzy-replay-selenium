@@ -47,9 +47,9 @@ Hence, we introduce an improved error tolerance mechanism for element finding, b
 
 Our record/replay framework, implemented with over 2,000 lines of code, relies on the Java Development Kit 11, Selenium WebDriver (version 4.1.3), Jsoup library (version 1.14.3), Selenium IDE (version 3.17.2), and Chrome along with its driver (version 100.0.4896.75). To demonstrate this work's efficiency and effectiveness, we conducted an empirical evaluation, investigating the following four research questions:
 
-RQ1: What proportion of action sequences recorded by Selenium IDE can be successfully played back by this framework?
-RQ2: How significantly does the fuzzy replay enhance test coverage?
-RQ3: How much does the fuzzy replay improve test efficiency?
+- RQ1: What proportion of action sequences recorded by Selenium IDE can be successfully played back by this framework?
+- RQ2: How significantly does the fuzzy replay enhance test coverage?
+- RQ3: How much does the fuzzy replay improve test efficiency?
 
 ### Evaluation Setup and Results
 
